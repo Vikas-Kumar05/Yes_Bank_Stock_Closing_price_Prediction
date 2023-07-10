@@ -31,7 +31,7 @@ We will measure the accuracy of the model's predictions after it has learned fro
 
 In the end, we extracted the conclusion after training the model for future prediction.
 
-Conclusion:
+# Conclusion:
 
 1. In the EDA section, we draw the following conclusions from our data: After 2018, the stock's closing price declined, primarily as a result of the Rana Kapoor case, which had a negative impact on the stock price. The initial price and closing price on the Yes BANK graph are identical.
 
